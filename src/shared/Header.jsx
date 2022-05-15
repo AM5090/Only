@@ -4,7 +4,7 @@ import * as React from 'react';
 function HeaderComponent() {
     return (
         <header>
-            <h1>Reddit for our own 123</h1>
+            <h1>Reddit for our own</h1>
         </header>
     );
 }
